@@ -8,8 +8,6 @@
 <title>언괴위</title>
 </head>
 <body>
-    <script>
-	location.href = 'login.jsp';
-	</script>
+    언괴위
 </body>
 </html>
